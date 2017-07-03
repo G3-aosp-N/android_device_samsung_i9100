@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/aosp_i9100.mk \
     $(LOCAL_DIR)/full_i9100.mk
